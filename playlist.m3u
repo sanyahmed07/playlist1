@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports", T Sports
+https://is.gd/sanyxtsports2
+
+#EXTINF:-1 group-title="Sports", T Sports2 HD
+https://is.gd/sanyxtsports
+
+#EXTINF:-1 group-title="Sports", Willow
+https://is.gd/sanyxwillow
+
+#EXTINF:-1 group-title="Sports", Bein Sports 1
+https://is.gd/sanyxtsports4
+
+#EXTINF:-1 group-title="Sports", Sports1 TV
+https://is.gd/sanyxtsports5
+
+#EXTINF:-1 group-title="Bangla", Nagorik TV
+https://is.gd/sanyxnagoriktv2
+
+#EXTINF:-1 group-title="Sports", PTV Sports
+https://shorturl.at/fh1ty
+
+#EXTINF:-1 group-title="Sports", Sky Sports
+https://shorturl.at/ksSB7
+
+#EXTINF:-1 group-title="Sports", Star Sports 1
+https://shorturl.at/PlBks
+
+#EXTINF:-1 group-title="BeIN", Bein Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 group-title="Sports", SolhSport
+https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
+
+#EXTINF:-1 group-title="Bangla", GTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports", Sports2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+#EXTINF:-1 group-title="Sports", Pro Sports
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="FIFA", FIFA TV
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports", PSN Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+#EXTINF:-1 group-title="Sports", PSN Sports 3
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+#EXTINF:-1 group-title="Fancode", Fancode Sports
+https://bd-mc-fdlive.fancode.com/mumbai/138937_english_hls_023f5d29dd72240_1ta-di_h264/1080p.m3u8
+
+#EXTINF:-1 group-title="Club", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="Sports", A Sports
+https://is.gd/sanyxasportsEXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Fancode", Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131031_5427_VAL_ESL_fc-Web.png" group-title="Fancode", Valencia CF vs RCD Espanyol (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131031_english_hls_73acf677f537413_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ChinaPRU23_vs_JapanU23_fc-web.jpg" group-title="Fancode", China PR U23 vs Japan U23 (AFC U23 Asian Cup, 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" group-title="Fancode", Main Feed - Day 3 vs LA Quinta, CA, USA (The American Express 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
