@@ -22,9 +22,6 @@ https://shorturl.at/PlBks
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/8a1e7ac77d641cb207a2b059bc637514/youtube99+wapo+mobi/download-2026-01-11T123417-938-(youtube99.wapo.mobi).png" group-title="BeIN", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/1aa6aaa32507df344f3cc4dec4670243/youtube99+wapo+mobi/sports-logo1-png-(youtube99.wapo.mobi).png" group-title="Sports", SolhSport
-https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/9d219a0165893ffb112b570ca58fcc23/youtube99+wapo+mobi/sports-logogtv1-png-(youtube99.wapo.mobi).png" group-title="Bangla", GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
@@ -42,9 +39,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/32bfbdbb1f77353a8cfcc7b734b7809d/youtube99+wapo+mobi/sports-logo3-png-(youtube99.wapo.mobi).png" group-title="Sports", PSN Sports 3
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/ac39d890706f762375118180eae925e4/youtube99+wapo+mobi/images-png-(youtube99.wapo.mobi).png" group-title="Fancode", Fancode Sports
-https://bd-mc-fdlive.fancode.com/mumbai/138937_english_hls_023f5d29dd72240_1ta-di_h264/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/ac39d890706f762375118180eae925e4/youtube99+wapo+mobi/images-png-(youtube99.wapo.mobi).png" group-title="Club", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
