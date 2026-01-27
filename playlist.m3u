@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/c7835a591eba171804cb7866db6b73ce/youtube99+wapo+mobi/download1-png-(youtube99.wapo.mobi).png" group-title="Sports", Willow
 https://is.gd/sanyxwillow
 
@@ -7,7 +9,7 @@ https://is.gd/sanyxtsports4
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/83a5f8c5b08e5eedc90428a924c34690/mahmudsany+wapkizs+com/Sany-boss-sport-png-(mahmudsany.wapkizs.com).png" group-title="Sports", Sports1 TV
 https://is.gd/sanyxtsports5
 
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/4c761a143999e2f234d6914cd64418f3/mahmudsany+wapkizs+com/Nagorik-tv-png-(mahmudsany.wapkizs.com).png" group-title="Bangla", Nagorik TV
+#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/4c761a143999e2f234d6914cd64418f3/mahmudsany+wapkizs+com/Nagorik-tv-png-(mahmudsany.wapkizs.com).png" group-title="Sports", Nagorik TV
 https://is.gd/sanyxnagoriktv2
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="Sports", PTV Sports
@@ -19,10 +21,10 @@ https://shorturl.at/ksSB7
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="Sports", Star Sports 1
 https://shorturl.at/PlBks
 
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/8a1e7ac77d641cb207a2b059bc637514/youtube99+wapo+mobi/download-2026-01-11T123417-938-(youtube99.wapo.mobi).png" group-title="BeIN", Bein Sports Extra
+#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/8a1e7ac77d641cb207a2b059bc637514/youtube99+wapo+mobi/download-2026-01-11T123417-938-(youtube99.wapo.mobi).png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/9d219a0165893ffb112b570ca58fcc23/youtube99+wapo+mobi/sports-logogtv1-png-(youtube99.wapo.mobi).png" group-title="Bangla", GTV
+#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/9d219a0165893ffb112b570ca58fcc23/youtube99+wapo+mobi/sports-logogtv1-png-(youtube99.wapo.mobi).png" group-title="Sports", GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/4b34c5a754125eaa9a31f432505743ce/youtube99+wapo+mobi/download-2026-01-11T123441-172-(youtube99.wapo.mobi).png" group-title="Sports", Sports2
@@ -31,7 +33,7 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-logo="https://flagcdn.com/w40/id.png" group-title="Sports", Pro Sports
 https://proshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/9d5b92a631e37fe094d4b04e621c7d57/youtube99+wapo+mobi/images-2026-01-11T123642-900-(youtube99.wapo.mobi).png" group-title="FIFA", FIFA TV
+#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/9d5b92a631e37fe094d4b04e621c7d57/youtube99+wapo+mobi/images-2026-01-11T123642-900-(youtube99.wapo.mobi).png" group-title="Sports", FIFA TV
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/ef307636590a67dfe1484ab16d5b773b/youtube99+wapo+mobi/sports-logo2-png-(youtube99.wapo.mobi).png" group-title="Sports", PSN Sports
@@ -40,19 +42,49 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/32bfbdbb1f77353a8cfcc7b734b7809d/youtube99+wapo+mobi/sports-logo3-png-(youtube99.wapo.mobi).png" group-title="Sports", PSN Sports 3
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/ac39d890706f762375118180eae925e4/youtube99+wapo+mobi/images-png-(youtube99.wapo.mobi).png" group-title="Club", Real Madrid TV
+#EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/ac39d890706f762375118180eae925e4/youtube99+wapo+mobi/images-png-(youtube99.wapo.mobi).png" group-title="Sports", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://pix1.wapkizfile.info/download/ac39d890706f762375118180eae925e4/youtube99+wapo+mobi/images-png-(youtube99.wapo.mobi).png" group-title="Sports", A Sports
 https://is.gd/sanyxasportsEXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Fancode", Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Sports", Hull City vs Swansea City (EFL Championship 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131031_5427_VAL_ESL_fc-Web.png" group-title="Fancode", Valencia CF vs RCD Espanyol (LALIGA 2025-26)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131031_5427_VAL_ESL_fc-Web.png" group-title="Sports", Valencia CF vs RCD Espanyol (LaLiga 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131031_english_hls_73acf677f537413_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ChinaPRU23_vs_JapanU23_fc-web.jpg" group-title="Fancode", China PR U23 vs Japan U23 (AFC U23 Asian Cup, 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ChinaPRU23_vs_JapanU23_fc-web.jpg" group-title="Sports", China U23 vs Japan U23 (AFC U23 Asian Cup)
 https://bd-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" group-title="Fancode", Main Feed - Day 3 vs LA Quinta, CA, USA (The American Express 2026)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" group-title="Sports", The American Express 2026 – Day 3
 https://bd-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 4
+http://135.125.109.73:9000/beinsport4_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 6
+http://135.125.109.73:9000/beinsport6_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 7
+http://135.125.109.73:9000/beinsport7_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 8
+http://135.125.109.73:9000/beinsport8_.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/BeIN_Sports_logo.svg" group-title="Sports",BeIN Sports 9
+http://135.125.109.73:9000/beinsport9_.m3u8
