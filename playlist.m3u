@@ -59,32 +59,3 @@ https://bd-mc-fdlive.fancode.com/mumbai/139282_english_hls_fdd432887438875_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg" group-title="Sports", The American Express 2026 – Day 3
 https://bd-mc-fdlive.fancode.com/mumbai/139998_english_hls_13c6b5c16767327_1ta-di_h264/index.m3u8
-
-#EXTM3U
-
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="https://image2url.com/r2/default/images/1769518043218-f7ca15c5-10ae-4a5d-bc35-309e338671c6.png" group-title="Sports",BeIN Sports 1
-http://135.125.109.73:9000/beinsport1_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="https://image2url.com/r2/default/images/1769518061040-7ae16705-8bd5-4a11-8305-b82535e3dc5c.jpeg" group-title="Sports",BeIN Sports 2
-http://135.125.109.73:9000/beinsport2_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="https://image2url.com/r2/default/images/1769518072904-3b0d895c-b673-4438-a644-73a50beb048f.png" group-title="Sports",BeIN Sports 3
-http://135.125.109.73:9000/beinsport3_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="https://image2url.com/r2/default/images/1769518086824-af2c80f6-aad2-4dc1-95b1-644fe2b2ca57.jpeg" group-title="Sports",BeIN Sports 4
-http://135.125.109.73:9000/beinsport4_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="https://image2url.com/r2/default/images/1769518098403-7e9387a1-48a0-49c1-9182-93cbd6793bc1.jpeg" group-title="Sports",BeIN Sports 5
-http://135.125.109.73:9000/beinsport5_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 6" tvg-logo="https://image2url.com/r2/default/images/1769518113654-50ac1404-f594-44dd-aab0-3e31b40555c2.jpeg" group-title="Sports",BeIN Sports 6
-http://135.125.109.73:9000/beinsport6_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 7" tvg-logo="https://image2url.com/r2/default/images/1769518125879-5358fe7c-0eec-4d5a-82f2-cfafa1b52768.jpeg" group-title="Sports",BeIN Sports 7
-http://135.125.109.73:9000/beinsport7_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 8" tvg-logo="https://image2url.com/r2/default/images/1769518135463-03c89338-acc7-4f23-87fe-34e2feab2f6f.jpeg" group-title="Sports",BeIN Sports 8
-http://135.125.109.73:9000/beinsport8_.m3u8
-
-#EXTINF:-1 tvg-name="BeIN Sports 9" tvg-logo="https://image2url.com/r2/default/images/1769518151639-847f9063-e462-40f7-927b-161b96072876.jpeg" group-title="Sports",BeIN Sports 9
-http://135.125.109.73:9000/beinsport9_.m3u8
