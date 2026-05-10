@@ -8,7 +8,7 @@
 - ⚡ Fun fact: i'm Bangladeshi.
 
 ## 🌐 Socials:
-[![Facebook](https://m.facebook.com/sany.ahmed.raaz.2025
+[![Facebook](https://www.facebook.com/sany.ahmed.raaz.2024
 
 # 💻 Tech Stack:
 ![
