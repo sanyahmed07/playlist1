@@ -17,6 +17,8 @@ https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",PTV Sports
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pwG7p8d/images-2026-05-22-T150745-465.jpg" group-title="20day to go",Fifa World Cup
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_1_hd.png" group-title="sports",SONY TEN SPORTS 1 HD
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=5eee029d293b5bd954e84726bdc82e7f49b803c2-09d6451499d5907e7bbaf809f7cba1f1-1779434119-1779423319
