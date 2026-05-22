@@ -18,8 +18,58 @@ https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/582580105ab6c615bdc7cb9fac1e96c7/mahmudsany+wapkizs+com/Sany-boss-ptv-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",PTV Sports
 http://maxotts.maxdigitaltv.com/x-media/C212/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DP0sf1P7/download-2026-05-10-T114637-017.png" group-title="Sany Sports",Nagorik Tv
-https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/index.m3u8
+EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/espn.png" group-title="sports",SONY ESPN
+https://edge2.roarzone.net:8447/roarzone/edge5/espn/index.m3u8?token=366769242f7cdda2f2061057ae451f56e91319ce-d107c851254324c34a37f0708f3913e9-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="sports",T SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=74e3836b4d3b54a573c27aeed81cfc63a6e126cf-a1a3886c40c51b496b5f05b328d69727-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_1_hd.png" group-title="sports",SONY TEN SPORTS 1 HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=5eee029d293b5bd954e84726bdc82e7f49b803c2-09d6451499d5907e7bbaf809f7cba1f1-1779434119-1779423319
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_2_hd.png" group-title="sports",SONY TEN SPORTS 2 HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8?token=1ad33fada8fcd37de7eb17fc9da4be9659bb301d-edc51182d4b617a086a1af21c59bb871-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_5_hd.png" group-title="sports",SONY TEN SPORTS 5 HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8?token=b2a94e53c2df5b8915a01f62639dd666a9076f86-5e0deaccc39bd7bce42a861a1e9856e1-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/ten_cricket.png" group-title="sports",SONY TEN CRICKET
+https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=702cebcf51441c3916d042bcf66b485ec5fd215d-ae3b785d0676a3148eb4a818444ff4bf-1779434119-1779423319
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/euro_sports_hd.png" group-title="sports",EUROSPORT HD
+https://edge2.roarzone.net:8447/roarzone/edge3/euro_sports_hd/index.m3u8?token=2675351801aa6b6728351d3f603ec5b92b850970-2b37b3ed80b349ce6590658b199c4c24-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/nfl-network.png" group-title="sports",NFL NETWORK
+https://edge2.roarzone.net:8447/roarzone/edge5/nfl-network/index.m3u8?token=16c9398a0751c7802560ed691822ee26a1778d9a-9b2f5e04e0c03205d7fa4897dc7c1d24-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/golf-channel.png" group-title="sports",GOLF CHANNEL
+https://edge2.roarzone.net:8447/roarzone/edge5/golf-channel/index.m3u8?token=0dc9f9d51669e7d4c34e9f0822c9688ea4798d63-4852a22c3b8241bc07e54018c4fe531e-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/cricket-gold.png" group-title="sports",CRICKET GOLD
+https://edge2.roarzone.net:8447/roarzone/edge5/cricket-gold/index.m3u8?token=d84deeb76befaa60df16e13600bb2889ff8e29c6-298e4dfcbf48f3086c62beea5c1847ef-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsn-1.png" group-title="sports",TSN 1
+https://edge2.roarzone.net:8447/roarzone/edge5/tsn-1/index.m3u8?token=d1e9d3725e25b4247aae3e5694ccc7494ff380ad-edd0377bb06bdee0dfafab4a7877cb4c-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/t-sports-hd.png" group-title="sports",T SPORTS HD
+https://edge2.roarzone.net:8447/roarzone/edge5/t-sports-hd/index.m3u8?token=8432bbec5ef29596320d2d69a55a939fef3ea16f-d0aedfd08b4ffb2dd00d0a52b4c21893-1779434122-1779423322
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/willow-tv.png" group-title="sports",WILLOW TV
+https://edge2.roarzone.net:8447/roarzone/edge5/willow-tv/index.m3u8?token=9f0001f408a9981b98321682f43f9688bfd68c4b-8d7eae64f3a2d0339f16fcadf54f6e35-1779434119-1779423319
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/xtrem-sports.png" group-title="sports",XTREM SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge5/xtrem-sports/index.m3u8?token=c409bc5c25734c185440b137eb00370385726ee9-4e9df7465768f3e8976c7fdfa5fda114-1779434122-1779423322
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sports-first-tv.png" group-title="sports",SPORTS FIRST TV
+https://edge2.roarzone.net:8447/roarzone/edge5/sports-first-tv/index.m3u8?token=7480965b6d0b258c1d9eb75e32422677f22cb667-1d3b93fa7e3640075bb604cff5ab8a26-1779434119-1779423319
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/talk-sport.png" group-title="sports",TALK SPORT
+https://edge2.roarzone.net:8447/roarzone/edge5/talk-sport/index.m3u8?token=9ba0fd2567da807424fa2486d38dd47086a40f29-01c516ce3c03811c00b26032bef2030a-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/fox-sports-2.png" group-title="sports",FOX SPORTS 2
+https://edge2.roarzone.net:8447/roarzone/edge5/fox-sports-2/index.m3u8?token=793b7584879181dc0db06a8a9b850668562c5bc6-0d0688623524f85c6083f35c6922ca69-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/a-sports.png" group-title="sports",A SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge5/a-sports/index.m3u8?token=11ab0a5afae775b4493019e19d76e91754d38c7e-b6419c903af29656b368c40b8def9e83-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sports-grid.png" group-title="sports",SPORTS GRID
+https://edge2.roarzone.net:8447/roarzone/edge5/sports-grid/index.m3u8?token=79679a442b2a8e15ada60b892397cc616f365173-9a1c36cd9346c3a105b310fc8a669b85-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/more-then-sports-tv.png" group-title="sports",MORE THEN SPORTS TV
+https://edge2.roarzone.net:8447/roarzone/edge5/more-then-sports-tv/index.m3u8?token=3ed9040a5f3dab5cc4bbf2529b2bcb84188225ab-61cbc7443cbfe5442ceeacac1a4226ac-1779434119-1779423319
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsn-3.png" group-title="sports",TSN 3
+https://edge2.roarzone.net:8447/roarzone/edge5/tsn-3/index.m3u8?token=764bd75c860875597a7a1682436dff121398d627-436b68860e9bd2f10a72f32b1569d4fb-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/bahrain-sports-1.png" group-title="sports",BAHRAIN SPORTS 1
+https://edge2.roarzone.net:8447/roarzone/edge5/bahrain-sports-1/index.m3u8?token=0417bf5081a43d23fc6b334991872ec916ab69f8-c03abea28148aff2a957d6e0897e6e5e-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/marquee-sports-network.png" group-title="sports",MARQUEE SPORTS NETWORK
+https://edge2.roarzone.net:8447/roarzone/edge5/marquee-sports-network/index.m3u8?token=f755be363159b1b38c705ba55fab02246fffb22b-db78aa5b6216883d6797bf1802f1c0bc-1779434122-1779423322
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsn-2.png" group-title="sports",TSN 2
+https://edge2.roarzone.net:8447/roarzone/edge5/tsn-2/index.m3u8?token=8450eb53553a3f4ff8c6b7eddf88abb84b0533f0-8e4a9aefb19367280bbc2b76cf263ef9-1779434121-1779423321
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/ptv-sports.png" group-title="sports",PTV SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge5/ptv-sports/index.m3u8?token=7f9010b6a8811958195487ac5f3d0062e1157a9b-e831579217ba29ceceb7679b224ef994-1779434120-1779423320
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/dd-sports.png" group-title="sports",DD SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=fa0c858c76733efd5a92bd42b6026f0bfa858184-de686246bb8939e79f9e15638830933c-1779434121-1779423321
 
 #EXTINF:-1 tvg-logo="https://pix1.b442d6eefbd6173bad7ee5bde6cd31e8.com/download/fdba6bfebbc1a9ac4723d4979feff73c/mahmudsany+wapkizs+com/Sany-boss-starsp-png-(mahmudsany.wapkizs.com).png" group-title="AynaOTT - Sports",Star Sports 1 HD
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
