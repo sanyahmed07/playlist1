@@ -1,21 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/sanyahmed07/playlist1/refs/heads/main/logos/zeebanglacinema.png", Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+#EXTINF:-1 tvg-name="Live Stream" tvg-logo="https://raw.githubusercontent.com/sanyahmed07/playlist1/refs/heads/main/logos/live.png", Live Stream
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
+#EXTINF:-1 tvg-name="NGCHD" tvg-logo="https://raw.githubusercontent.com/sanyahmed07/playlist1/refs/heads/main/logos/ngchd.png", NGCHD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-
-
-
-
-
+#EXTINF:-1 tvg-name="ColorsHD" tvg-logo="https://raw.githubusercontent.com/sanyahmed07/playlist1/refs/heads/main/logos/colorshd.png", ColorsHD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 
 
